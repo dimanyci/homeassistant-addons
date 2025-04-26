@@ -15,7 +15,7 @@ privileged:
 image: "local/masqaddon"
 
 stage: stable
-url: "https://github.com/ТВОЙ_ПОЛЬЗОВАТЕЛЬ/homeassistant-addons"
+url: "https://github.com/dimanyci/homeassistant-addons"
 arch:
   - amd64
   - i386
