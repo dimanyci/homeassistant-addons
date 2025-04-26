@@ -31,3 +31,4 @@ schema:
   log_level: str?
   commands:
     - str
+....
