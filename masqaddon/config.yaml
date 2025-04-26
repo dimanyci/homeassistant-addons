@@ -12,7 +12,7 @@ watchdog: false
 host_network: true
 privileged:
   - NET_ADMIN
-image: "local/masqaddon"
+build: true
 
 stage: stable
 url: "https://github.com/dimanyci/homeassistant-addons"
